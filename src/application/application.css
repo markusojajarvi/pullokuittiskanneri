@@ -1,0 +1,60 @@
+.root {
+	-fx-background-image: url("backgrounddrop.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 100% 100%;
+    -fx-background-position: center center;
+}
+TextArea {
+	-fx-font-size: 20px;
+}
+VBox#scanner {
+	-fx-padding: 10px 50px 10px 50px;
+	-fx-spacing: 10px;
+	-fx-alignment: center;
+}
+VBox#vBoxleft {
+	-fx-alignment: top-left;
+	-fx-padding: 5px;
+}
+VBox#vBoxright {
+	-fx-alignment: top-right;
+	-fx-spacing: 20px;
+	-fx-padding: 5px;
+}
+VBox#inputLeft,
+VBox#inputRight {
+	-fx-spacing: 20px;
+}
+HBox#sumBox {
+	-fx-spacing: 50px;
+	-fx-padding: 10px;
+	-fx-alignment: center;
+}
+HBox#manual {
+	-fx-padding: 40px 10px 10px 10px;
+	-fx-spacing: 10px;
+	-fx-alignment: center;
+}
+#sum {
+	-fx-background-color: white;
+	-fx-font-size: 40px;
+	-fx-font-weight: bold;
+	-fx-padding: 10px;
+}
+.button {
+    -fx-background-color: 
+        #c3c4c4,
+        linear-gradient(#d6d6d6 50%, white 100%),
+        radial-gradient(center 50% -40%, radius 200%, #e6e6e6 45%, rgba(230,230,230,0) 50%);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,1;
+    -fx-text-fill: black;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 3, 0.0 , 0 , 1 );
+  	-fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+.button:hover {
+    -fx-background-color: 
+        #c3c4c4,
+        linear-gradient(white 50%, white 100%),
+        radial-gradient(center 50% -40%, radius 200%, #e6e6e6 45%, rgba(230,230,230,0) 50%);
+}
