@@ -9,3 +9,9 @@ Vaihtoehto a.
 Vaihtoehto b.
 1. Suorita ohjelman asennus "Pullokuittiskanneri-1.0.exe" -tiedostosta.
 2. Ohjelma käynnistyy asennuksen jälkeen.
+
+Käyttö:
+1. Liitä käsiskanneri tietokoneeseesi.
+2. Skannaa pullokuitin viivakoodit yksitellen syötekenttään.
+    --> Viivakoodin täytyy olla 13-numeroinen esim. muotoa 2000000000201.
+    --> Manuaalisyöttö on myös mahdollinen.
