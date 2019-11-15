@@ -10,7 +10,7 @@ Vaihtoehto b.
 1. Suorita ohjelman asennus "Pullokuittiskanneri-1.0.exe" -tiedostosta.
 2. Ohjelma käynnistyy asennuksen jälkeen.
 
-<img src="/pullokuittisofta.JPG"></img>
+<img src="/pullokuittisofta.JPG"/>
 
 
 
