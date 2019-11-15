@@ -11,6 +11,9 @@ Vaihtoehto b.
 2. Ohjelma käynnistyy asennuksen jälkeen.
 
 <img src="/pullokuittisofta.JPG"></img>
+
+
+
 Käyttö:
 1. Liitä käsiskanneri tietokoneeseesi.
 2. Skannaa pullokuitin viivakoodit yksitellen syötekenttään.
